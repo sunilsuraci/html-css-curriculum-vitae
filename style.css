@@ -2,13 +2,18 @@ img {
     width: 250px;
     height: 250px;
 }
-
-
-
+img{position: ;
+}
+hr {
+    border-color: orange;
+}
+header{
+    background-color: gray;
+}
 
 
 h2 {
-    color: orange;
+    color: #d08d10;
 }
 hr {
 
@@ -16,4 +21,7 @@ hr {
 body {
     width: 800px;
     margin:0 auto;
+}
+.testo-centrato{
+    text-align: center;
 }
